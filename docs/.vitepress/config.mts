@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "elfin6550",
-  description: "An Github Page based on VitePress",
+  description: "A GitHub Pages site based on VitePress",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
